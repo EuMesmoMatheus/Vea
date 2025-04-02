@@ -15,5 +15,5 @@ NÃO INFORMADO
 
 
 ## Documentação
-Para mais detalhes sobre o funcionamento e integrações do Vea, consulte a [Documentação](docs/README.md).
+Para mais detalhes sobre o funcionamento e integrações do Vea, consulte a [Documentação](https://matheusdeoliveiralofy.atlassian.net/wiki/x/ewD3?atlOrigin=eyJpIjoiODQ3NzQ1MzFkZjViNDJiNTliMGQwM2FjMGYwZTU0MDkiLCJwIjoiYyJ9).
 
