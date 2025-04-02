@@ -10,10 +10,6 @@ Para manter a comunicação eficiente, o Vea envia notificações por e-mail e S
 
 A plataforma ainda conta com relatórios detalhados que auxiliam os administradores na análise do desempenho do negócio. Métricas como número de atendimentos, serviços mais populares e histórico de agendamentos ajudam a empresa a tomar decisões estratégicas baseadas em dados reais.
 
-## Tecnologias Utilizadas
-NÃO INFORMADO
-
-
 ## Documentação
 Para mais detalhes sobre o funcionamento e integrações do Vea, consulte a [Documentação](https://matheusdeoliveiralofy.atlassian.net/wiki/x/ewD3?atlOrigin=eyJpIjoiODQ3NzQ1MzFkZjViNDJiNTliMGQwM2FjMGYwZTU0MDkiLCJwIjoiYyJ9).
 
